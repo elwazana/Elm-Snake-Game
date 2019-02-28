@@ -1,7 +1,6 @@
 # Snake Game 
 
 #### README for Snake-io.elm 
-(http://ugweb.cas.mcmaster.ca/~elwazana/ Personal CV webpage along with Snake game under Portfolio)
 Snake-io.elm has the source code for the recreation of the classic game snake, along with a few extra additions. 
 The following GitHub was used as a template to build upon (https://github.com/theburningmonk/elm-snake)
 
